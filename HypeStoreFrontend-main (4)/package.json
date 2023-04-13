@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "@types/jquery": "^3.5.16"
+  },
+  "dependencies": {
+    "react-fontawesome": "^1.7.1",
+    "react-router-dom": "^6.10.0"
+  }
+}
